@@ -5,6 +5,8 @@ Windows喝水提醒工具，一款简约的WPF桌面喝水提醒应用，帮助�
 
 一款简约的WPF桌面喝水提醒应用，帮助您养成健康的饮水习惯。
 
+大陆访问：https://gitee.com/Jason218/water-reminder-app
+
 ## 功能特色
 <img width="1925" height="653" alt="1767065678307" src="https://github.com/user-attachments/assets/65299686-2b86-4401-ac6a-eed59f4fca05" />
 
