@@ -28,7 +28,7 @@ Windows喝水提醒工具，一款简约的WPF桌面喝水提醒应用，帮助�
 ## 快速开始
 
 ### 下载&安装
-下载 **喝水提醒.exe** 就可以了
+前往：https://github.com/LovebuildJ/WaterReminderApp/releases/tag/v1.0.0 下载 **喝水提醒.exe** 就可以了
 
 免安装，双击可运行
 
